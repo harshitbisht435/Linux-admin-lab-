@@ -20,11 +20,10 @@ Hands-on practice in Linux administration and basic troubleshooting using Termux
 - disk-monitor.sh
 
 ## Environment
-- Android device
-- Termux
+- windows 
+- WSL2
 - Bash
 - Git
-- Python
 
 ## Project Status
 Beginner-level practical lab. Commands and exercises are documented as completed.
